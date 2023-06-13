@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Heavendart888
-- 👀 I’m interested in App Development.
+- 💘 I’m interested in App Development.
 - 🌱 I’m currently learning Kotlin.
-- 💞️ I’m looking to collaborate on Nothing.
 
 <!---
 Heavendart888/Heavendart888 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
