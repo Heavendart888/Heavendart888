@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Heavendart888
 - 👀 I’m interested in App Development.
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning Kotlin.
 - 💞️ I’m looking to collaborate on Nothing.
 
 <!---
